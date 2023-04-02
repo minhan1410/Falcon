@@ -1,0 +1,10 @@
+spring:
+  data:
+    mongodb:
+      authentication-database: admin
+      database: test
+      host: localhost
+      port: 27017
+
+  jpa:
+    show-sql: true

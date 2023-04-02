@@ -1,0 +1,13 @@
+
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(óÎ °ùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Äùº÷
+Q
+java:S1854"6Remove this useless assignment to local variable "f0".(›³Ç«øÿÿÿÿ
+?
+java:S2129"$Remove this "BigInteger" constructor(›³Ç«øÿÿÿÿ
+?
+java:S2129"$Remove this "BigInteger" constructor(¾ÚõŒùÿÿÿÿ
+:
+java:S2129"$Remove this "BigInteger" constructor(Ù‘¿ˆ
+:
+java:S2129"$Remove this "BigInteger" constructor(ÄýÉž
